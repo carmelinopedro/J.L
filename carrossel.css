@@ -1,0 +1,17 @@
+.carrossel-titulo{
+    background-color: white;
+    color: orange;
+    text-align: center;
+    padding: 1em 2em;
+}
+.swiper-slide img {
+    width: 100%;
+
+}
+.swiper-button-prev, .swiper-button-next{
+    display: none;
+}
+.swiper-pagination{
+
+    position: initial;
+}
